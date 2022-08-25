@@ -1,0 +1,3 @@
+praxis_interface @ https://storage.googleapis.com/praxis-public/wheels/praxis_interface-0.0.9-py2.py3-none-any.whl
+pyarrow
+fastparquet
